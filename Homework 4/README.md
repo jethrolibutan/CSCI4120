@@ -7,11 +7,11 @@ Ben Casatelli - casatellib20@students.ecu.edu
 
 Cross Validation - score : 0.7691752923789885
 
-Lasso - score : 0.7694162793636841
-alpha : 0.9904825909413973
+Lasso - score : 0.7694164058935884
+alpha : 0.9934633802807108
 
-Ridge Regression Model - score : 0.7705179513082644
-alpha : 0.9887964830360172
+Ridge Regression Model - score :0.7705112882704508
+alpha : 0.9828577287156179
 
 # Which model performs the best?
 
