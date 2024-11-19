@@ -58,6 +58,7 @@ In this project, we used SVM models to classify digits from the digits dataset. 
 
 1. Install Python libraries: `numpy`, `matplotlib`, `seaborn`, `scipy`, and `scikit-learn`.
 2. Run the code in a Jupyter Notebook or Python script.
-3. The output will display the best parameters and final 5-fold CV accuracies for each kernel.
+3. The output will display the final 5-fold CV accuracies for each kernel.
+4. It will also print out detailed results from each of the kernels as well.
 
 ---
